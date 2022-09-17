@@ -5,6 +5,7 @@
 <li>Day 3: Treasure Island</li>
 <li>Day 4: Rock Paper Scissors game</li>
 <li>Day 5: Password Generator</li>
+<li>Day 7: Hangman</li>
 <li>Day 15: Coffee Machine</li>
 <li>Day 16: Coffee Machine using OOP</li>
 <li>Day 17: Quiz Game using OOP</li>
