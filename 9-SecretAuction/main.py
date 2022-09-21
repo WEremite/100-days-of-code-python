@@ -10,7 +10,7 @@ another_participant = True
 
 
 while another_participant:
-    name = input("What is your name? ").capitalize()
+    name = input("What is your name? ").title()
     bid = int(input("What is your bid? $"))
 
     participants[name] = bid
