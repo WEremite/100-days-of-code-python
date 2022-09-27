@@ -9,6 +9,7 @@
 <li>Day 8: Caesar Cipher</li>
 <li>Day 9: Secret Auction</li>
 <li>Day 10: Calculator</li>
+<li>Day 11: Blackjack</li>
 <li>Day 15: Coffee Machine</li>
 <li>Day 16: Coffee Machine using OOP</li>
 <li>Day 17: Quiz Game using OOP</li>
