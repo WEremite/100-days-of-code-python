@@ -11,6 +11,7 @@
 <li>Day 10: Calculator</li>
 <li>Day 11: Blackjack</li>
 <li>Day 12: Guess a Number Game</li>
+<li>Day 14: Higher Lower Game</li>
 <li>Day 15: Coffee Machine</li>
 <li>Day 16: Coffee Machine using OOP</li>
 <li>Day 17: Quiz Game using OOP</li>
