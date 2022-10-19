@@ -15,3 +15,4 @@
 <li>Day 15: Coffee Machine</li>
 <li>Day 16: Coffee Machine using OOP</li>
 <li>Day 17: Quiz Game using OOP</li>
+<li>Day 18: Turtle and GUI</li>
