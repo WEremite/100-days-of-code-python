@@ -16,3 +16,4 @@
 <li>Day 16: Coffee Machine using OOP</li>
 <li>Day 17: Quiz Game using OOP</li>
 <li>Day 18: Turtle and GUI</li>
+<li>Day 19: Intermediate - Instances, State and Higher Order Functions</li>
